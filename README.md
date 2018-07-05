@@ -1,6 +1,7 @@
 # Paycom integration template
 
-### Changed repositorie [PaycomUZ/paycom-integration-php-template] (https://github.com/PaycomUZ/paycom-integration-php-template)
+### Changed repositorie 
+*  [PaycomUZ/paycom-integration-php-template](https://github.com/PaycomUZ/paycom-integration-php-template)
 This is not a complete implementation of the Marchant API, instead a basic template.
 One **MUST** implement all the `todo:` entries found in the source files according his/her own requirements.
 
